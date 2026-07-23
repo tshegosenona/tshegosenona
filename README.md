@@ -18,17 +18,14 @@ I love digging into messy datasets, asking the right questions, and building das
 - 🌍 Based in Gauteng
 
 <br/>
-
 <!-- Skills -->
 ## 🛠️ My Toolkit
-
-![SQL](https://img.shields.io/badge/SQL-Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
+![SQL](https://img.shields.io/badge/SQL-Server-1B6B6B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-1B6B6B?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-1B6B6B?style=for-the-badge&logo=powerbi&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-1B6B6B?style=for-the-badge&logo=databricks&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-1B6B6B?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-1B6B6B?style=for-the-badge&logo=github&logoColor=white)
 <br/>
 
 <!-- Projects -->
@@ -50,17 +47,6 @@ Analysing user profiles and viewership patterns for a streaming platform. Focuse
 
 🔗 [View Project](https://github.com/tshego-analyst/BrightTV-Project.git)
 
-<br/>
-
-<!-- GitHub Stats -->
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tshego-analyst&show_icons=true&theme=rose_pine&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tshego-analyst&layout=compact&theme=rose_pine&hide_border=true" width="40%"/>
-</p>
-
-<br/>
 
 <!-- Connect -->
 ## 🤝 Let's Connect
