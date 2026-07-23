@@ -1,4 +1,4 @@
-<img src="./banner1.png" alt="Tshego Senona - Data Analyst" width="100%"/>
+<img src="./banner.png" alt="Tshego Senona - Data Analyst" width="100%"/>
 <!-- Header -->
 <h1 align="center">Hi, I'm Tshego 👋🏾</h1>
 <h3 align="center">Data Analyst | SQL • Excel • Power BI | Turning data into decisions ✨</h3>
