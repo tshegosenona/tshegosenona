@@ -22,7 +22,7 @@ I love digging into messy datasets, asking the right questions, and building das
 
 ## 🛠️ My Toolkit
 
-![SQL](https://img.shields.io/badge/SQL-1B6B6B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-1B6B6B?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-1B6B6B?style=for-the-badge&logo=powerbi&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-1B6B6B?style=for-the-badge&logo=databricks&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-1B6B6B?style=for-the-badge&logo=amazonaws&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-1B6B6B?style=for-the-badge&logo=github&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-1B6B6B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-1B6B6B?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-1B6B6B?style=for-the-badge&logo=powerbi&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-1B6B6B?style=for-the-badge&logo=databricks&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-1B6B6B?style=for-the-badge&logo=amazonaws&logoColor=white) 
 
 <br/>
 
