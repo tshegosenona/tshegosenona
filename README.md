@@ -30,7 +30,7 @@ I love digging into messy datasets, asking the right questions, and building das
 ## 🤝 Let's Connect
 
 <p>
-  <a href="https://tshego-analyst.github.io">🌐 Portfolio</a> &nbsp;|&nbsp;
+  <a href="https://tshegosenona.github.io">🌐 Portfolio</a> &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/tshegofatso-l-senona-946a69237/">💼 LinkedIn</a>
 </p>
 
